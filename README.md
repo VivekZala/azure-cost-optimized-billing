@@ -42,4 +42,4 @@ For full implementation details, see the individual files and pseudocode.
 ## **Questions**
 For any clarifications or questions regarding the implementation, please check the [questions document](questions.md).
 
-**Note**: The markdown files in this repository have been formatted and beautified using GPT for better readability and structure.
+**Note**: The markdown files in this repository have been formatted and beautified using GPT for better readability and structure. I have limited experience with Azure, as the majority of my time has been spent working with AWS. While I’m familiar with core cloud concepts, my expertise has predominantly been in the AWS ecosystem. However, I’m actively expanding my knowledge of Azure and am confident in my ability to adapt and implement solutions effectively in this environment
